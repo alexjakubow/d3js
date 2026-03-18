@@ -34,3 +34,11 @@ body {
   border-radius: 9999px;
   padding: 10px 20px;
 }
+.chart-card {
+  max-width: 375px;
+  border: 2px solid;
+  background: white;
+  padding: 20px 20px 10px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
